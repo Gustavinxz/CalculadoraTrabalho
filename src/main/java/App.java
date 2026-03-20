@@ -42,7 +42,7 @@ public class App {
                     resultado = Operacoes.dividir(n1, n2);
                     System.out.println("Resultado: " + resultado);
                 } else {
-                    System.out.println("Não se pode dividir por zero !!!");
+                    System.out.println("Não se pode dividir por zero !");
                 }
             } else {
                 System.out.println("Opção inválida.");
