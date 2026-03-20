@@ -1,5 +1,6 @@
 # CalculadoraTrabalho
-Daniel
-Gustavo Teixeira
-Gustavo Ferreira
-Joao Vitor Fonseca
+## Integrantes do Grupo
+- Daniel Fernandes
+- Gustavo Teixeira
+- Gustavo Ferreira
+- Joao Vitor Fonseca
