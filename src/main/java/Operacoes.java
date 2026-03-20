@@ -1,3 +1,4 @@
+package src.main.java;
 public class Operacoes {
 
     public static double somar(double n1, double n2) {
