@@ -5,10 +5,10 @@ on:
   push:
     branches:
       
-      Calculadora
+    - Calculadora
 pull_request:
   branches:
-    main
+    - main
 
 jobs:
   pipeline:
